@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/s2sample/src/main/resources
+DefaultRootPackage=s2sample
+DefaultSrcPath=/s2sample/src/main/java
+ServletPath=/s2sample
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1
